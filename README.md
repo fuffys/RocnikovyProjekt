@@ -26,5 +26,5 @@ Díly pro autíčko:
 
 # Progress
 
-Listopad
+ - Listopad
 Test ESP - neúspěšné - po zapojení se neobjeví jako připojené
