@@ -24,3 +24,7 @@ Díly pro autíčko:
 - p̶r̶a̶c̶o̶v̶n̶í̶ ̶d̶e̶s̶k̶a̶
 
 
+# Progress
+
+Listopad
+Test ESP - neúspěšné - po zapojení se neobjeví jako připojené
