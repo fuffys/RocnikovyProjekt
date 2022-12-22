@@ -3,8 +3,6 @@ Návrhy:
 
 1. Autíčko na ovládání 
 
-# Důvod proč jsem si vybral tenhle projekt
-- Zní to jako zábavné téma na zpracování
 
 # sw
 
@@ -28,3 +26,7 @@ Díly pro autíčko:
 
  ## Listopad 
  - Test ESP - Neúspěšné - po zapojení se neobjeví jako připojené
+ - Zprovoznění USB portu
+
+## Prosinec
+- Složení dílů dohromady
