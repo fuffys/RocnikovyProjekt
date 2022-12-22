@@ -30,3 +30,4 @@ Díly pro autíčko:
 
 ## Prosinec
 - Složení dílů dohromady
+- Test motorů
